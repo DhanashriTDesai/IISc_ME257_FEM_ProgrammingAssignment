@@ -1,0 +1,30 @@
+Read 5 nodes and 4 elements 
+
+Coordinates Array: 
+-1  -1  1  -1  1  1  -1  1  0  0  
+
+Connectivity Array: 
+0  1  4  1  2  4  2  3  4  3  0  4  
+
+Global Stiffness matrix is : 
+      1       0       0       0       0
+      0       1       0       0       0
+      0       0       1       0       0
+      0       0       0       1       0
+-1.0002 -1.0002 -1.0002 -1.0002  4.0008
+
+
+Global Force Vector is : 
+-1
+-1
+ 1
+ 1
+ 0
+
+
+Solution Vector is : 
+-1
+-1
+ 1
+ 1
+ 0
